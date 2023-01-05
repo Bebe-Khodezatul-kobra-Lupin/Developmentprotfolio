@@ -138,4 +138,20 @@ main {
 
 .about-infos {
     display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+.info_title {
+    color: #757575;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.info_description {
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
 }
