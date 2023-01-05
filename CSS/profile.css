@@ -118,17 +118,24 @@ main {
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 156px;
+    text-align: center;
 }
 
 .sction_tiite {
-    text-align: center;
+
     font-weight: 700;
     font-size: 35px;
     color: #181818;
+    margin-bottom: 30px;
 }
 
 .sction_Description {
     font-weight: 400;
     font-size: 18px;
     color: #757575;
+    margin-bottom: 30px;
+}
+
+.about-infos {
+    display: flex;
 }
