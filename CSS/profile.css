@@ -244,3 +244,13 @@ section {
     margin-top: 50px;
     text-align: center;
 }
+
+/*last part contact part*/
+.cotract {
+    display: flex;
+    gap: 30px;
+}
+
+.contract-discription {
+    margin-top: 20px;
+}
