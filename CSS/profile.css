@@ -239,3 +239,8 @@ section {
     font-weight: 400;
     font-size: 16px;
 }
+
+.resume-btn {
+    margin-top: 50px;
+    text-align: center;
+}
